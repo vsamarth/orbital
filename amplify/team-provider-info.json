@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-worknow-dev-10258-authRole",
+      "UnauthRoleArn": "arn:aws:iam::934160834702:role/amplify-worknow-dev-10258-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::934160834702:role/amplify-worknow-dev-10258-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-worknow-dev-10258-deployment",
+      "UnauthRoleName": "amplify-worknow-dev-10258-unauthRole",
+      "StackName": "amplify-worknow-dev-10258",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:934160834702:stack/amplify-worknow-dev-10258/d3462ee0-d93c-11ec-ac3e-02094d48b660",
+      "AmplifyAppId": "dpq4bou4fcylg"
+    },
+    "categories": {
+      "auth": {
+        "worknowe00e618a": {}
+      }
+    }
+  }
+}
